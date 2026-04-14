@@ -1,4 +1,4 @@
-AI Final Project – Hurricane & Forecast Data Analysis
+AI Final Project - Group RRM
 
 Members
 - Mallory Roussel

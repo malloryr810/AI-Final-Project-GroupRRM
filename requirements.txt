@@ -1,0 +1,28 @@
+# =============================================================================
+# AI Final Project - GroupRRM
+# Python dependencies
+#
+# IMPORTANT: TensorFlow requires Python <= 3.12. Create the venv with:
+#   uv venv .venv --python 3.12
+#   uv pip install -r requirements.txt
+# =============================================================================
+
+# Core scientific computing
+numpy>=1.26,<2.0
+pandas>=2.1
+
+# Machine learning (classical)
+scikit-learn>=1.4
+
+# Deep learning
+tensorflow>=2.16
+
+# Computer vision
+opencv-python>=4.9
+
+# Visualization
+matplotlib>=3.8
+
+# Jupyter support
+jupyter>=1.0
+ipykernel>=6.0
